@@ -1,0 +1,25 @@
+// TASK 05
+// DAYE - 26/11/2023
+//02) create own resume in json fromat ..............................
+
+{
+  "name": "Nihmath",
+  "mail": "mohamednihmath13@gmail.com",
+  "mob": "8124858417",
+  "skills": ["HTML", "CSS", "JavaScript", "Java", "MySQL", "Figma"],
+  "address": "puliunthope, Chennai",
+  "education": [
+    {
+      "level": "UG",
+      "degree": "BSC",
+      "institution": "Sadakathullah Appa College, Tirunelveli",
+      "cgpa": 8.4
+    },
+    {
+      "level": "PG",
+      "degree": "MCA",
+      "institution": "SRM Institute of Science and Technology, Katankulathur",
+      "cgpa": 8.41
+    }
+  ]
+}
